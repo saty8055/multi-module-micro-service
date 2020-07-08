@@ -1,6 +1,7 @@
 # Multi-Module Micro-Service Demo
 
-## This Project is a simple demonstration of how a multi-module micro service project lies in design with maven.
+## Introduction
+* This Project is a simple demonstration of how a multi-module micro service project lies in design with maven.
 
 ## Technologies Used 
 * Java JDK-1.8
